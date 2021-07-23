@@ -53,8 +53,8 @@
 	<li>Todas as requisiçōes POST deverão ser feitas via js, seja por ajax, fetch ou axios;</li>
 	<li>Só poderão ser salvos dados na coluna 'placa' da tabela 'veiculos' que sigam a seguinte o seguinte formato:</li>
 	<ol>
-		<li>[A-Z][A-Z][A-Z][0-9][0-9][0-9][0-9] | Exemplo: AAA0048</li>
-		<li>[A-Z][A-Z][A-Z][0-9][A-Z][0-9][0-9] | Exemplo: AAA9A35</li>
+		<li>AAA0048</li>
+		<li>AAA9A35</li>
 	</ol>
 </ol>
 
