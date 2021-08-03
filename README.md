@@ -1,6 +1,6 @@
 <h1>Teste Back-end DOK Despachante</h1>
 <p>A ideia deste teste é ajudar avaliar melhor as suas habilidades para a vaga de desenvolvedor, em vários níveis de experiência.</p>
-<p>Este teste deve ser feito por você sozinho, no seu próprio tempo, mas geralmente esse teste não deve levar mais do que algumas horas para ser feito.</p>
+<p>Este teste deve ser feito por você sozinho, no seu próprio tempo.</p>
 
 <h2>Instruções de entrega</h2>
 <p>Inicialize um novo repositório em seu Github, vá adicionando os commits quando achar necessário e quando terminado envie o link do repositório para o responsável do teste que entrou em contato com você.</p>
